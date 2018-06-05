@@ -1,6 +1,6 @@
 {
 name:"snehal",
-age:20
+age:20,
 address:{
   street:"3004",
   area:"mirjals"
